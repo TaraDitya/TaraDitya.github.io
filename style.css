@@ -1,0 +1,25 @@
+body {
+  min-height: 3000px;
+  font-family: Comic sans ms;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f5eddc;
+}
+
+#projects {
+  background-color: #f5eddc;
+}
+
+footer {
+  background-color: #eb1d36;
+}
+
+section{
+  padding-top: 5rem;
+}
+
+h1,h2{
+  font-weight: bold;
+}
