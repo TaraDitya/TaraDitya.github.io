@@ -5,21 +5,25 @@ body {
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #C4DDFF;
+  background-color: #c4ddff;
 }
 
 #projects {
-  background-color: #C4DDFF;
+  background-color: #c4ddff;
 }
 
 footer {
-  background-color: #001D6E;
+  background-color: #001d6e;
 }
 
-section{
+section {
   padding-top: 5rem;
 }
 
-h1,h2{
+h1,
+h2 {
   font-weight: bold;
+}
+.card:hover {
+  cursor: pointer;
 }
