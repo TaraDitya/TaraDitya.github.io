@@ -7,7 +7,7 @@ body {
   padding-top: 6rem;
   height: 100%;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/small-memory-lp.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/small-memory-lp.webp);
   background-size: cover;
   background-position: absolute;
   color: #ffffff;
