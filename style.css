@@ -1,7 +1,13 @@
+html{
+  margin: 0;
+  padding: 0;
+}
 body {
   min-height: 3000px;
   font-family: Comic sans ms;
+  scroll-behavior: smooth;
 }
+
 
 .jumbotron {
   padding-top: 6rem;
@@ -13,13 +19,17 @@ body {
   color: #ffffff;
 }
 
+#profile:hover {
+  transform: scale(105%);
+  transition: ease;
+}
+
 #projects {
   background-color: #c4ddff;
 }
 
-.card{
-  box-shadow: 0 20px 40px rgba(0,0,0, .2);
-
+.card {
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
 }
 
 footer {
@@ -36,4 +46,6 @@ h2 {
 }
 .card:hover {
   cursor: pointer;
+  transform: scale(102.5%);
+  transition: ease-in-out;
 }
