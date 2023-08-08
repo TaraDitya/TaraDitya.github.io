@@ -19,10 +19,6 @@ body {
   color: #ffffff;
 }
 
-#profile:hover {
-  transform: scale(105%);
-  transition: ease;
-}
 
 #projects {
   background-color: #c4ddff;
