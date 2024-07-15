@@ -20,6 +20,9 @@ body {
   border: 0;
 }
 
+#wive1{
+  border-bottom: -5px;
+}
 
 #projects {
   background-color: #c4ddff;
